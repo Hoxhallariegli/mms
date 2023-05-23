@@ -1,0 +1,265 @@
+.datedate1{
+input[type="date"] {
+    font-size: 25px;
+
+}
+
+}
+.container-contact100 {
+    min-width: 100% ;
+    min-height: 100%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    background: #a64bf4;
+    background: -webkit-linear-gradient(45deg,#00dbde,#fc00ff);
+    background: -o-linear-gradient(45deg,#00dbde,#fc00ff);
+    background: -moz-linear-gradient(45deg,#00dbde,#fc00ff);
+    background: linear-gradient(45deg,#00dbde,#fc00ff);
+    height:100%;
+}
+
+.wrap-contact100 {
+    width: 500px;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 42px 55px 45px;
+    justify-content: center;
+    align-items: center;
+}
+.butoni4 {
+    background-color: olivedrab;
+}
+#butoni_ri {
+    background-color: #ffa600;
+    color: white;
+    /* font-size: 24px; */
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 30px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 45px;
+    min-width: 220px;
+    max-width: 250px;min-height: 95px;min-height: 75px;
+}
+
+
+#butoni_ri0 {
+    background-color: #ffa600;
+    color: white;
+    /* font-size: 24px; */
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 30px;
+    margin-top: 30px;
+    text-align: center;
+    padding: 26px;
+    min-width: 220px;
+    max-width: 250px;min-height: 95px;
+
+}
+butoni_ri0:after {
+    content: '';
+    position: absolute;
+    z-index: -1;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+    min-width: 220px;
+    max-width: 250px;min-height: 95px;
+
+}
+
+#butoni_ri1 {
+    background-color: #386e6e;
+    color: white;
+    /* font-size: 24px; */
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 30px;
+    margin-top: 30px;
+    text-align: center;
+    padding: 26px;
+    min-width: 220px;
+    max-width: 250px;min-height: 95px;
+
+}
+#butoni_ri2 {
+    background-color: #9b4444;
+    color: white;
+    /* font-size: 24px; */
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 30px;
+    margin-top: 30px;
+    text-align: center;
+    padding: 26px;
+    min-width: 220px;
+    max-width: 250px;min-height: 95px;
+
+}
+#butoni_ri3 {
+    background-color: #b6be42;
+    color: white;
+    /* font-size: 24px; */
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 30px;
+    margin-top: 30px;
+    text-align: center;
+    padding: 26px;
+    min-width: 220px;
+    max-width: 250px;min-height: 95px;
+
+}
+#butoni_ri4 {
+    background-color: #b878aa;
+    color: white;
+    /* font-size: 24px; */
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 30px;
+    margin-top: 30px;
+    text-align: center;
+    padding: 26px;
+    min-width: 220px;
+    max-width: 250px;min-height: 95px;
+}
+
+#butoni_ri5 {
+    background-color: #454fdb;
+    color: white;
+    /* font-size: 24px; */
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 30px;
+    margin-top: 30px;
+    text-align: center;
+    padding: 26px;
+    min-width: 220px;
+    max-width: 250px;min-height: 95px;
+}
+
+#butoni_ri6 {
+    background-color: #f5803c;
+    color: white;
+    /* font-size: 24px; */
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 30px;
+    margin-top: 30px;
+    text-align: center;
+    padding: 26px;
+    min-width: 220px;
+    max-width: 250px;min-height: 95px;
+}
+#butoni_ri7 {
+    background-color: #6e6d12;
+    color: white;
+    /* font-size: 24px; */
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 30px;
+    margin-top: 30px;
+    text-align: center;
+    padding: 26px;
+    min-width: 220px;
+    max-width: 250px;min-height: 95px;
+}
+
+#butoni_ri8 {
+    background-color: #1b9da7;
+    color: white;
+    /* font-size: 24px; */
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 30px;
+    margin-top: 30px;
+    text-align: center;
+    padding: 26px;
+    min-width: 220px;
+    max-width: 250px;min-height: 95px;
+}
+
+
+#butoni_ri9 {
+    background-color: #127cd3;
+    color: white;
+    /* font-size: 24px; */
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 30px;
+    margin-top: 30px;
+    text-align: center;
+    padding: 26px;
+    min-width: 220px;
+    max-width: 250px;min-height: 95px;
+
+}
+#butoni_ri10 {
+    background-color: #134064;
+    color: white;
+    /* font-size: 24px; */
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 30px;
+    margin-top: 30px;
+    text-align: center;
+    padding: 26px;
+    min-width: 220px;
+    max-width: 250px;min-height: 95px;
+}
+
+
+#butoni_ri11 {
+    background-color: #2c6064;
+    color: white;
+    /* font-size: 24px; */
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 30px;
+    margin-top: 30px;
+    text-align: center;
+    padding: 26px;
+    min-width: 220px;
+    max-width: 250px;min-height: 95px;
+
+}
+
+#butoni_ri12 {
+    background-color: #12d369;
+    color: white;
+    /* font-size: 24px; */
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 30px;
+    margin-top: 30px;
+    text-align: center;
+    padding: 26px;
+    min-width: 220px;
+    max-width: 250px;min-height: 95px;
+
+}
+#butoni_ri13 {
+    background-color: #a82b51;
+    color: white;
+    /* font-size: 24px; */
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 30px;
+    margin-top: 30px;
+    text-align: center;
+    padding: 26px;
+    min-width: 220px;
+    max-width: 250px;min-height: 95px;
+}
